@@ -1,0 +1,17 @@
+#Calculator Project
+
+*Task Description*: Create a calculator application using React.js.
+
+*Basic Features*:
+1. Basic operations: addition, subtraction, multiplication, division.
+2. Clear (C) button to reset the calculator.
+3. Display current input and calculation results.
+4. Responsive design for various screen sizes.
+
+*Advanced Features* (Optional):
+1. Scientific functions (square root, power, sin, cos, tan).
+2. History log of calculations.
+3. Implement a theme switcher for light and dark mode.
+
+*User Interface*:
+- Design a clean and user-friendly interface using CSS or any library (e.g., Tailwind.css).
