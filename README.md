@@ -36,7 +36,7 @@ Follow these instructions to run the project locally on your machine.
 1. Clone the repository:
    ```bash
    git clone https://github.com/ZakriaYousafzai/Calculator-Using-ReactJs
-   cd calculator
+   cd Calculator-Using-ReactJs
    ```
 
 2. Install the dependencies:
